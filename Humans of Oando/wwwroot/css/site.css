@@ -35,3 +35,114 @@ body {
         display: none;
     }
 }
+
+
+
+/*//////////////////////////////////////////////*/
+
+a{
+    color: #ffffff !important;
+}
+
+
+.carousel-div{
+    max-height: 500px !important;
+    background-color: #000000;
+    top: -30px !important;
+}
+
+.carousel1 {
+    width: 100%;
+    height: 650px !important;
+    
+}
+
+
+
+.vote-now{
+    position:absolute;
+    padding-left: 16%;
+    padding-right: 10%;
+    text-align: left;
+    color: #ffffff !important;
+    top: 33% !important;
+}
+
+.vote-now h2{
+
+}
+
+.inner {
+    background: rgba(0, 0, 0, 0.6);
+    height: 100% !important;
+    background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('../images/Home Page/award_hero_01.jpg');
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    filter: grayscale(90%);
+}
+.inner2 {
+    background: rgba(0, 0, 0, 0.6);
+    height: 100% !important;
+    background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('../images/Home Page/award_hero_02.jpg');
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    filter: grayscale(90%);
+}
+.inner3 {
+    background: rgba(0, 0, 0, 0.6);
+    height: 100% !important;
+    background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('../images/Home Page/award_hero_03.jpg');
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    filter: grayscale(90%);
+}
+.inner4 {
+    background: rgba(0, 0, 0, 0.6);
+    height: 100% !important;
+    background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('../images/Home Page/award_hero_04.jpg');
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    filter: grayscale(90%);
+}
+
+.trans-nav {
+    top: 40px;
+    background: rgba(0, 0, 0, 0.2) !important;
+    margin:15px !important;
+    z-index:200;
+}
+
+.vote-now-button{
+    background-color: #ff6a00 !important;
+    color: #ffffff !important;
+}
+
+.content {
+    background-color: #191c39;
+    padding-top: 10%;
+}
+
+.appreciate{
+    color: #ffffff;
+    padding: 0px 15px 2px 15px;
+    line-height: 16px !important;
+}
+
+.boxed {
+    background-color: rgba(0, 0, 0, 0.2);
+    
+    /*box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.2);*/
+}
+
+.boxed:hover {
+        background-color: #ff6a00;
+    }
+
+.boxed h3{
+    color: #ffffff;
+}
+
+.right{
+    font-size: 350% !important;
+    float: right !important;
+}
